@@ -5,4 +5,6 @@ export const Item = styled.li`
   align-items: baseline;
   justify-content: space-between;
   gap: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid black;
 `;
